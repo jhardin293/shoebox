@@ -1,3 +1,7 @@
+
+Allows users to buy and sell shoes using Instagram hashtags and pictures.
+
+
 # Foundation libsass template
 
 This is a template to start your own project that uses Grunt and libsass!
