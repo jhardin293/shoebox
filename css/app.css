@@ -6111,5 +6111,8 @@ th.hide-for-touch {
 
   th.show-for-print {
     display: table-cell !important; } }
-.name {
-  color: white; }
+.photo {
+  position: relative;
+  padding-bottom: 17px;
+  padding-top: 17px;
+  margin: 0px; }
